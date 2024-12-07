@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063339511305",
+    "project_id": "utvt-bus",
+    "storage_bucket": "utvt-bus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063339511305:android:bacd2c9bab77def09272d8",
+        "android_client_info": {
+          "package_name": "com.UTVT.busconductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HU60VC3QBrrMgd4vMWjFBwIeEIJw4wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

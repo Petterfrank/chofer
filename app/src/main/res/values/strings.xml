@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BusConductor</string>
+    <string name="google_maps_api_key">TU_CLAVE_DE_API_AQUI</string>
+</resources>
